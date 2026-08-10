@@ -50,6 +50,5 @@ This project demonstrates an end-to-end data engineering pipeline built using Mi
 * Integrated the data platform with Power BI for visualization.
 * Gained hands-on experience working with multiple Azure data engineering services.
 
-## Project Screenshots
-
-Screenshots demonstrating the Azure Data Factory pipeline and project implementation are available in the [`screenshots`](./screenshots) folder.
+## Project Screenshot
+![Azure Data Factory Pipeline](./screenshots/01-data-pipeline-overview.jpg)
