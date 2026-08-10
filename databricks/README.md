@@ -13,4 +13,18 @@ PySpark was used to perform data cleaning, transformation, and enrichment on the
 
 ## Transformation Screenshots
 
-Screenshots demonstrating the Databricks transformation process are available in the [`screenshots`](../screenshots) folder.
+### 1. Data Ingestion
+
+![Databricks Data Ingestion](../screenshots/Databricks_Read_data.jpg)
+
+### 2. Data Cleaning
+
+![Databricks Data Cleaning](../screenshots/Databricks_Clean_data.jpg)
+
+### 3. Data Transformation
+
+![Databricks Data Transformation](../screenshots/Databricks_Transformed_data.jpg)
+
+### 4. Final Output
+
+![Databricks Final Output](../screenshots/Databricks_Output.jpg)
