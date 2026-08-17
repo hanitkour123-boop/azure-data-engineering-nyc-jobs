@@ -23,4 +23,4 @@ The transformed data generated through Azure Databricks was made available for a
 
 ### Screenshot 2
 
-![Synapse Screenshot 2](../screenshots/Refined_data_AzureSnpase.jpg)
+![Synapse Screenshot 2](../screenshots/Refined_data_AzureSynapse.jpg)
