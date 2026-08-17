@@ -14,3 +14,13 @@ The transformed data generated through Azure Databricks was made available for a
 ## Data Flow
 
 **ADLS Gen2 → Azure Synapse Analytics → Power BI**
+
+## Synapse Screenshots
+
+### Screenshot 1
+
+![Synapse Screenshot 1](../screenshots/Refined_data_ADLS.jpg)
+
+### Screenshot 2
+
+![Synapse Screenshot 2](../screenshots/Refined_data_AzureSnpase.jpg)
