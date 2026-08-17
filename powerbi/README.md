@@ -11,6 +11,16 @@ The processed data available through Azure Synapse Analytics was used to create 
 - Created reports to present insights from the data.
 - Enabled business users to interact with the analytical results.
 
-## Data Flow
+## Power BI Screenshots
 
-**Azure Synapse Analytics → Power BI → Reports & Visualizations**
+### Power BI Report
+
+![Power BI Report](../screenshots/PowerBi_1.jpg)
+
+### Power BI Visualization
+
+![Power BI Visualization](../screenshots/PowerBi_2.jpg)
+
+### Power BI Visualization
+
+![Power BI Visualization](../screenshots/PowerBi_3.jpg)
